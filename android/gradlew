@@ -5,7 +5,6 @@
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
-# You may obtain a copy of the License at thi url
 #
 #      https://www.apache.org/licenses/LICENSE-2.0
 #
@@ -25,7 +24,7 @@
 #   (1) You need a POSIX-compliant shell to run this script. If your /bin/sh is
 #       noncompliant, but you have some other compliant shell such as ksh or
 #       bash, then to run this script, type that shell name before the whole
-#       command line, like:
+#       command line, like: 
 #
 #           ksh Gradle
 #
@@ -58,7 +57,7 @@
 #       https://github.com/gradle/gradle/blob/master/subprojects/plugins/src/main/resources/org/gradle/api/internal/plugins/unixStartScript.txt
 #       within the Gradle project.
 #
-#       You can find Gradle at https://github.com/gradle/gradle/.
+#       You can find Gradle at this url https://github.com/gradle/gradle/.
 #
 ##############################################################################
 
